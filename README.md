@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Duve3!
-Im a teenager who happens to develop on github! I enjoy coding and my favorite language is python🐍. Currently I am looking to more languages and hope to become an amazing dev eventually.
+<p align="center">
+*Im a teenager who happens to develop on github!<br>
+  I enjoy coding and my favorite language is python🐍.<br>
+  Currently I am working mainly in python and next.js (although I use the Typescript version)*
+</p>
 
-<info>
 <p align="center">
   <a href="https://github.com/duve3">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duve3&theme=transparent" />
@@ -16,7 +19,6 @@ Im a teenager who happens to develop on github! I enjoy coding and my favorite l
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duve3&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</info>
 
 <!--
 **Duve3/Duve3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
