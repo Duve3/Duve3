@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Duve3!
+Im a teenager who happens to develop on github! I enjoy coding and my favorite language is python🐍. Currently I am looking to more languages and hope to become an amazing dev eventually.
 
 <!--
 **Duve3/Duve3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
