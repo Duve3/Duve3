@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Duve3!
 <p align="center">
-*Im a teenager who happens to develop on github!<br>
+  <i>Im a teenager who happens to develop on github!<br>
   I enjoy coding and my favorite language is python🐍.<br>
-  Currently I am working mainly in python and next.js (although I use the Typescript version)*
+    Currently I am working mainly in python and next.js (although I use the Typescript version)</i>
 </p>
 
 <p align="center">
