@@ -7,15 +7,15 @@
 
 <p align="center">
   <a href="https://github.com/duve3">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duve3&theme=onedark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duve3&theme=transparent" />
   </a>
   <a href="https://github.com/duve3">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duve3&hide_border=true&card_width=338&theme=onedark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duve3&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/duve3">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duve3&theme=onedark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duve3&theme=transparent" />
   </a>
   <a href="https://github.com/duve3">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duve3&langs_count=10&layout=default&card_width=699&hide_border=true&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duve3&langs_count=10&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
