@@ -16,6 +16,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=duve3&theme=transparent" />
   </a>
   <a href="https://github.com/duve3">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duve3&langs_count=10&show_icons=truet&card_width=699&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duve3&langs_count=10&show_icons=true&hide_border=true&card_width=699&theme=transparent" />
   </a>
 </p>
