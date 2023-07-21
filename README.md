@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Duve3!
 <p align="center">
   <i>Im a teenager who happens to develop on GitHub!<br>
-  I enjoy coding and my favorite language is Python 🐍<br>
-  I am working mainly in Python, Although I want to learn languages like C/C++.
+  I enjoy coding and my favorite language to code in is Python 🐍<br>
+  I am working mainly in Python, Although I want to learn languages like Rust and C++.
 </p>
 
 <p align="center">
